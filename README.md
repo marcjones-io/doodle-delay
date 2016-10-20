@@ -1,7 +1,7 @@
 # doodle-delay
 Custom illustrated &amp; animated VST/AU plugins written in C++
 
-![Alt text](relative/path/to/img.screenshots.jpg?raw=true "Title")
+![alt tag](https://github.com/marcjones-io/doodle-delay/blob/master/screenshots.jpg)
 
 ### about:
 Doodle delay is a creative peice in the form of a freeware audio effects processor. The plugin was built atop the JUCE Frameworks, using Xcode & Stanford's Synthesis Toolkit (Lite version 4.5.1). The illustrations are custom drawn and animated to a flip-book effect by iterating through an array of image objects represented in binary data - which saves memory and computation time. The 
